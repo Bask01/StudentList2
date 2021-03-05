@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author paulbonenfant
+ * @author paulbonenfant / march 2021
  */
 public class StudentList {
 
